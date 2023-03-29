@@ -5,7 +5,7 @@
 
 
 
-$subscriptionId = "85cd2292-82e3-4c72-a2d7-1ba724a25176" #insert your subscription ID
+$subscriptionId = "972386bc-cd9b-425f-9e66-f9c9754bab9d" #insert your subscription ID
 $resourceGroupName = "CIaCS-rg"  #provide resource group name
 $resourceGroupLocation = "WestEurope"  #location
 
