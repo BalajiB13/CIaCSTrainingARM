@@ -6,7 +6,7 @@
 
 
 $subscriptionId = "972386bc-cd9b-425f-9e66-f9c9754bab9d" #insert your subscription ID
-$resourceGroupName = "CIaCS-rg"  #provide resource group name
+$resourceGroupName = "CIaCSBalaji-rg"  #provide resource group name
 $resourceGroupLocation = "WestEurope"  #location
 
 # The below  file can be used if the templates are stored locally 
