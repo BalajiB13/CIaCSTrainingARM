@@ -6,19 +6,19 @@
             "value": "WestEurope"
         },
         "hostingplanname": {
-            "value": "CIaCSTraining-Plan"
+            "value": "BalajiTraining-Plan"
         },
         "webappname": {
-            "value": "CIaCSTraining-Site"
+            "value": "BalajiTraining-Site"
         },
         "apiname": {
-            "value": "CIaCSTraining-Api"
+            "value": "BalajiTraining-Api"
         },
         "sqlservername": {
-            "value": "CIaCSTraining-Sql"
+            "value": "BalajiTraining-Sql"
         },
         "databasename": {
-            "value": "ciacstrainingdb"
+            "value": "balajitrainingdb"
         },
         "skuName": {
             "value": "F1"
